@@ -1,12 +1,14 @@
   
   .container{
     font-family: Arial, Helvetica, sans-serif;
-    max-width: 300px;
+    max-width:300px;
     margin: auto;
-  
-    background: rgb(34, 142, 230);
-    padding: 20px;
+    background: rgb(245,222,179);
+    padding: 100px;
     border-radius: 10px;
+    float: right;
+    margin-right: 100px;
+    margin-top: 80px;
   }
   
   
@@ -25,4 +27,9 @@
   }
   
   
+ .img_churrasco{
+  float:left;
+    margin-left: 100px;
+ }
+
   
